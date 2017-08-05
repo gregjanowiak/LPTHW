@@ -4,3 +4,5 @@ Framework for building in Python:
 3. Create a class hierarchy and object map for the concepts
 4. Code the classes and a test to run them
 5. Repeat and refine
+
+8/5/17: added gitignore file, this change to test whether it will skip over venv dir properly
